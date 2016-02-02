@@ -3,6 +3,7 @@
 
 
 **设计模式的六大原则：** 
+
 1. 开闭原则（Open Close Principle）
 2. 里氏代换原则（Liskov Substitution Principle）
 3. 依赖反转原则（Dependence Inversion Principle）
@@ -11,6 +12,7 @@
 6. 合成复用原则（Composite Reuse Principle）
 
 **Java 23种设计模式**
+
 1. 工厂方法模式（Factory Method）
 2. 抽象工厂模式（Abstract Factory）
 3. 单例模式（Singleton）
