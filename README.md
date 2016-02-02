@@ -40,4 +40,5 @@
 
 **参考文章连接：**
 
-1. [Java开发中的23种设计模式详解](http://zz563143188.iteye.com/blog/1847029)
+1. [Java开发中的23种设计模式详解-原作](http://blog.csdn.net/zhangerqing/article/details/8194653)
+2. [Java开发中的23种设计模式详解-iteye](http://zz563143188.iteye.com/blog/1847029)
